@@ -16,4 +16,5 @@ Projeto construído do evento Next level Week da Rocketseat
 
 ## Contato
 
-🔗 linkedin.com/in/bruno-gaetti-034905184/
+[🔗 Linkedin](https://gaetti.github.io/NLW-eSports/)
+[📫 Email](bruno.gaetti@outlook.com)
